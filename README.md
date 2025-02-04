@@ -9,7 +9,7 @@
 ## 🌍 Projects & Impact  
 - 💼 Designed and built **LocalConnect SaaS landing page** with Figma, React & Tailwind.  
 - 🔍 Created my portfolio using Figma, React, Tailwind and Framer Motion.  
-- ⚡ Designed **Afrisight Webapp & Dashboard** – a platform that allows people to take surveys and complete tasks in exchange for money, it is used by over a million people.  
+- ⚡ Designed **Afrisight Webapp & Dashboard** – a platform that allows people to take surveys and complete tasks in exchange for money, it is used by over a **million** people.  
 
 ## 📌 Always exploring new ideas in  
 **Design systems, accessibility, and frontend performance.**  
